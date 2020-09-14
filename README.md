@@ -12,11 +12,11 @@ http://localhost:3000/course/add
 ```
 ### Output Images
 
-![Alt Text](https://github.com/bhamakpillutla/Sample-NodeJS-Web-Application-/blob/master/input-output-Images/welcomeHBS.JPG)
+![Alt Text](https://github.com/bhamakpillutla/MVC-NodeJs-MongodDb-CourseRegistration/blob/master/input-output-Images/welcomeHBS.JPG)
 
-![Alt Text](https://github.com/bhamakpillutla/Sample-NodeJS-Web-Application-/blob/master/input-output-Images/EnterData.JPG)
+![Alt Text](https://github.com/bhamakpillutla/MVC-NodeJs-MongodDb-CourseRegistration/blob/master/input-output-Images/EnterData.JPG)
 
-![Alt Text](https://github.com/bhamakpillutla/Sample-NodeJS-Web-Application-/blob/master/input-output-Images/DataEntered.JPG)
+![Alt Text](https://github.com/bhamakpillutla/MVC-NodeJs-MongodDb-CourseRegistration/blob/master/input-output-Images/DataEntered.JPG)
 
-![Alt Text](https://github.com/bhamakpillutla/Sample-NodeJS-Web-Application-/blob/master/input-output-Images/dataDisplay.JPG)
+![Alt Text](https://github.com/bhamakpillutla/MVC-NodeJs-MongodDb-CourseRegistration/blob/master/input-output-Images/dataDisplay.JPG)
 
